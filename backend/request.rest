@@ -1,0 +1,9 @@
+POST http://localhost:3000/api/services
+Content-Type: "application/json"
+
+{
+    "name": "Iphone usado",
+    "description": "descrição do Iphone usado",
+    "price": 1400,
+    "image": "https://wx.mlcdn.com.br/ponzi/production/portaldalu/467.jpg"
+}
